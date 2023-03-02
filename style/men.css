@@ -111,12 +111,13 @@
 
 #detail{
     padding-left: 15px;
+    min-width: 800px;
+
 }
 #showresult{
     display: flex;
     flex-wrap: wrap;
     align-content: space-between;
-   
 }
 #showresult>div{
     display: flex;

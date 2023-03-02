@@ -10,6 +10,8 @@
     z-index:2;
     padding: 10px;
     height: 350px;
+    /* background-color: aqua; */
+    margin-top: -55px;
 
 }
 
@@ -50,6 +52,7 @@
     z-index:2;
     padding: 10px;
     height: 350px;
+    margin-top: -55px;
 
 }
 #dropDown1>div {
@@ -87,6 +90,7 @@
     box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     padding: 10px;
     z-index:2;
+    margin-top: -55px;
 
 }
 #dropDown2>div {

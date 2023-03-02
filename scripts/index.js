@@ -36,10 +36,10 @@ document.getElementById("crossBtn").addEventListener("click",()=>{
 
 document.getElementById("handleSubmit").addEventListener("click",()=>{
    let input = document.getElementById("search").value;
-   if(input == "mens" || input=="mans" || input=="men" || input=="mans tshirt"){
+   if(input == "mens" || input=="mans" || input=="men" ||input=="man" || input=="mans tshirt" || input=="man tshirt"){
     location.href = "./pages/men.html";
    }
-   else if(input === "womens" || input=="womans" || input=="women" || input=="womans tshirt"){
+   else if(input === "womens" || input=="womans" || input=="women" || input=="woman" || input=="womans tshirt" || input=="woman tshirt"){
     location.href = "./pages/women.html";
    }
    else if(input === "fashion" || input== "clothes" || input=="clothing" || input=="cloths"){
